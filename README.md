@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:0D1117&height=200&section=header&text=Vishal%20R&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descSize=18&descColor=C9C6FF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:0D1117&height=200&section=header&text=Vishal%20R&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descSize=18&descColor=C9C6FF&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1200&color=8A85FF&center=true&vCenter=true&width=600&lines=%3E+currently+building%3A+Smart+Military+Vest+(IoT);%3E+stack%3A+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;%3E+focus%3A+AI-integrated+full-stack+systems" alt="Typing SVG"/>
@@ -14,18 +14,27 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6C63FF,100:0D1117&height=3"/>
 </div>
 
-## About
+<div align="center">
 
-```js
-const vishal = {
-  education: "B.E. CSE, K.S. Institute of Technology (2027)",
-  role: "Full Stack Developer",
-  building: "Smart Military Vest — real-time soldier health monitoring, IoT",
-  stack: ["React", "Next.js", "Node.js", "PostgreSQL", "Supabase", "AI/ML APIs"],
-  languages: ["English", "Kannada", "Hindi", "Telugu (native)", "Tamil (fluent)"]
-};
-```
+# Hi, I'm Vishal R
 
+### • Aspiring Full Stack Developer • Computer Science Student
+
+#### Building intelligent, scalable, and real-world software solutions with a focus on **AI** and **Full Stack Development**.
+
+<br>
+
+<img src="https://img.shields.io/badge/_B.E._Computer_Science_&_Engineering-8A85FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/_K.S._Institute_of_Technology-8A85FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/_Expected_2027-8A85FF?style=for-the-badge&labelColor=0D1117"/>
+<br>
+
+###  Currently Building
+
+<img src="https://img.shields.io/badge/Smart_Military_Vest_--_IOT_Defence_System-8A85FF?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
+  
 ## Tech Stack
 
 **Frontend**
@@ -99,6 +108,20 @@ Defence-grade wearable for real-time soldier health monitoring — heart rate, S
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6C63FF,100:0D1117&height=3"/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6C63FF,100:0D1117&height=3"/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishal-163&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A85FF&icon_color=8A85FF&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishal-163&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A85FF&text_color=FFFFFF"/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=vishal-163&theme=tokyonight&hide_border=true&background=0D1117&ring=8A85FF&fire=8A85FF&currStreakLabel=8A85FF"/>
+
+</div>
+
 ## GitHub Analytics
 
 <div align="center">
@@ -111,6 +134,5 @@ Defence-grade wearable for real-time soldier health monitoring — heart rate, S
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vishal-163&color=8A85FF&style=for-the-badge&label=PROFILE+VIEWS)
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:0D1117&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=FFFFFF&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:0D1117&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=30&fontColor=FFFFFF&fontAlignY=72&animation=fadeIn"/>
 </div>
