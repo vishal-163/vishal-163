@@ -3,15 +3,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:0D1117&height=200&section=header&text=Vishal%20R&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descSize=18&descColor=C9C6FF&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1200&color=8A85FF&center=true&vCenter=true&width=900&lines=%3E+currently+building%3A+Smart+Military+Vest+(IoT);%3E+stack%3A+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;%3E+focus%3A+AI-integrated+full-stack+systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=8A85FF&center=true&vCenter=true&height=70&width=900&lines=%3E+currently+building%3A+Smart+Military+Vest+(IoT);%3E+stack%3A+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;%3E+focus%3A+AI-integrated+full-stack+systems" alt="Typing SVG"/>
 </a>
 <br/>
-<p align="center">
-<a href="https://vishalr.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8A85FF?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://www.linkedin.com/in/vishal-ravi-653a8a33b"><img src="https://img.shields.io/badge/LINKEDIN-8A85FF?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
-<a href="mailto:vishalravi163@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8A85FF?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
-<a href="https://github.com/vishal-163"><img src="https://img.shields.io/badge/GITHUB-8A85FF?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
-</p>
+<table align="center">
+<tr>
+<td><a href="https://vishalr.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8A85FF?style=flat-square&logoColor=white&labelColor=0D1117"/></a></td>
+<td><a href="https://www.linkedin.com/in/vishal-ravi-653a8a33b"><img src="https://img.shields.io/badge/LINKEDIN-8A85FF?style=flat-square&logoColor=white&labelColor=0D1117"/></a></td>
+<td><a href="mailto:vishalravi163@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8A85FF?style=flat-square&logoColor=white&labelColor=0D1117"/></a></td>
+<td><a href="https://github.com/vishal-163"><img src="https://img.shields.io/badge/GITHUB-8A85FF?style=flat-square&logoColor=white&labelColor=0D1117"/></a></td>
+</tr>
+</table>
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6C63FF,100:0D1117&height=3"/>
 </div>
