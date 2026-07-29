@@ -3,13 +3,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:0D1117&height=200&section=header&text=Vishal%20R&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descSize=18&descColor=C9C6FF&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1200&color=8A85FF&center=true&vCenter=true&width=600&lines=%3E+currently+building%3A+Smart+Military+Vest+(IoT);%3E+stack%3A+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;%3E+focus%3A+AI-integrated+full-stack+systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1200&color=8A85FF&center=true&vCenter=true&width=900&lines=%3E+currently+building%3A+Smart+Military+Vest+(IoT);%3E+stack%3A+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;%3E+focus%3A+AI-integrated+full-stack+systems" alt="Typing SVG"/>
 </a>
 <br/>
+<p align="center">
 <a href="https://vishalr.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8A85FF?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
 <a href="https://www.linkedin.com/in/vishal-ravi-653a8a33b"><img src="https://img.shields.io/badge/LINKEDIN-8A85FF?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
 <a href="mailto:vishalravi163@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8A85FF?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
 <a href="https://github.com/vishal-163"><img src="https://img.shields.io/badge/GITHUB-8A85FF?style=for-the-badge&logoColor=white&labelColor=0D1117"/></a>
+</p>
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6C63FF,100:0D1117&height=3"/>
 </div>
@@ -108,15 +110,13 @@ Defence-grade wearable for real-time soldier health monitoring — heart rate, S
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6C63FF,100:0D1117&height=3"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6C63FF,100:0D1117&height=3"/>
-
 ## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishal-163&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A85FF&icon_color=8A85FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishal-163&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A85FF&icon_color=8A85FF&text_color=FFFFFF&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishal-163&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A85FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-163&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A85FF&text_color=FFFFFF&cache_seconds=1800"/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=vishal-163&theme=tokyonight&hide_border=true&background=0D1117&ring=8A85FF&fire=8A85FF&currStreakLabel=8A85FF"/>
 
@@ -126,7 +126,7 @@ Defence-grade wearable for real-time soldier health monitoring — heart rate, S
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-163&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A85FF&line=8A85FF&point=FFFFFF"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-163&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A85FF&line=8A85FF&point=FFFFFF&area=true&radius=8"/>
 
 </div>
 
